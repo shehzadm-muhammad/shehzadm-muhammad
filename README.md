@@ -51,7 +51,7 @@ Wireshark · Ubuntu VM · Raspberry Pi · Network analysis basics
 ---
 
 ## 📫 Contact
-📧 [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]
+📧 zaib.367@icloud.com
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-shehzad-831369293/
 
 Thanks for visiting! 🙌  
