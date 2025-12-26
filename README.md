@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Shahzaib Shehzad
 
 🎓 Final-year BSc Computer Science student (Graduating July 2026)  
-📍 Based in Birmingham, UK  
+📍 Based in London, UK  
 💻 Interested in AI, Cyber Security, Software Engineering, Cloud & Mobile Computing  
 
 ---
