@@ -1,45 +1,74 @@
-## Hi, I'm Muhammad Shahzaib Shehzad 👋
+# Hi, I'm Muhammad Shahzaib Shehzad
 
-I'm a final-year BSc Computer Science student graduating in 2026, with a strong interest in Artificial Intelligence and software development.  
-I enjoy building practical, user-focused applications through academic and real-world projects.
+Computer Science graduate with practical project experience in software development, AI-powered applications, backend systems, full-stack web apps, and cybersecurity fundamentals.
 
-📍 Currently based in London | Open to graduate roles in Birmingham
-
----
-
-## 🔍 Areas of Interest
-- Artificial Intelligence (applied AI & basic NLP)
-- Software and backend development
-- Full-stack web applications
-- Systems, networking, and security fundamentals
+I am currently focused on improving my practical development skills, polishing my portfolio, and applying for graduate/junior technology roles in the UK.
 
 ---
 
-## 🛠️ Technical Skills
+## Career Focus
+
+- Graduate Software Developer
+- Junior Backend Developer
+- Junior Full-Stack Developer
+- AI Application Developer
+- Junior Cyber Security / Technical Analyst roles
+
+---
+
+## Technical Skills
 
 **Languages:** Python, Java, C#, JavaScript, C, SQL  
-**Frameworks & Tools:** Spring Boot, React (Vite), Supabase, Git/GitHub, Visual Studio, VS Code  
-**AI & Data:** Sentiment Analysis, Basic NLP, SQL, Database Design  
-**Systems & Other:** Linux (Ubuntu), Virtual Machines, Wireshark, Figma
+**Backend:** FastAPI, Spring Boot, REST APIs, MVC architecture  
+**Frontend:** React, Vite, HTML, CSS, Tailwind CSS  
+**Databases:** PostgreSQL, Supabase, H2, SQL database design  
+**AI & Data:** LLM API integration, prompt design, basic NLP, sentiment analysis  
+**Systems & Security:** Linux, Virtual Machines, Wireshark, networking fundamentals, vulnerability assessment basics  
+**Tools:** Git, GitHub, VS Code, Visual Studio, Figma, Postman, draw.io  
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-- **AI-Driven Stress Relief Game** (Final-Year Project – In Progress)  
-- **AI Sentiment Analysis Tool (Python)**  
-- **Fitness Dashboard Web Application (React & Supabase)**  
-- **Spring Boot Web Application (Java)**  
-- **AA Educates – Client Website Project**
+### AI-Powered Comedy Game for Stress Relief
+Final-year project built using Unity, C#, Python FastAPI, and LLM integration.  
+The system uses a client-server architecture, mood check-ins, character-based responses, safety handling, fallback responses, and session logging.
+
+**Key skills:** Unity, C#, FastAPI, API design, AI integration, JSON logging, responsible AI design
 
 ---
 
-## 🎯 2025–2026 Goals
-- Complete and publish my final-year AI project  
-- Strengthen my portfolio with 4–5 polished repositories  
-- Continue developing AI and backend development skills  
-- Secure a graduate technology role in Birmingham
+### Fitness Dashboard Web Application
+A React and Supabase full-stack fitness tracking dashboard with authentication, workout logging, BMI/weight tracking, charts, and responsive UI.
 
-📫 **Contact:**  
-Email: zaib.367@icloud.com  
-LinkedIn: https://www.linkedin.com/in/muhammad-shehzad-831369293/
+**Key skills:** React, Supabase, JavaScript, Chart.js, Tailwind CSS, deployment
+
+---
+
+### Spring Boot Web Application
+A Java Spring Boot backend application using MVC architecture, RESTful endpoints, CRUD operations, JPA, H2 database, and Thymeleaf.
+
+**Key skills:** Java, Spring Boot, REST APIs, MVC, JPA, Maven, database integration
+
+---
+
+### Sentiment Analysis Tool
+A Python NLP project using VADER sentiment analysis to classify text as positive, negative, or neutral.
+
+**Key skills:** Python, NLP basics, text classification, sentiment analysis
+
+---
+
+## Current Goals
+
+- Strengthen software engineering fundamentals
+- Improve testing, Git, deployment, and clean code practices
+- Build polished portfolio projects with screenshots, demos, and documentation
+- Apply for graduate and junior software roles in the UK
+
+---
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/muhammad-shehzad-831369293
+- GitHub: github.com/shehzadm-muhammad
